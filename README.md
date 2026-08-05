@@ -56,10 +56,14 @@ Aquí están las tecnologías y herramientas con las que trabajo:
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mansibond&show_icons=true&theme=dracula" alt="Resumen de perfil" />
+  <a href="https://github.com/Mansibond">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mansibond&show_icons=true&theme=dracula" alt="Resumen de perfil" />
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansibond&layout=compact&theme=dracula" alt="Lenguajes más usados" />
+  <a href="https://github.com/Mansibond">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansibond&layout=compact&theme=dracula" alt="Lenguajes más usados" />
+  </a>
 </p>
 
 ---
@@ -69,4 +73,4 @@ Aquí están las tecnologías y herramientas con las que trabajo:
 Si buscas un perfil junior con la madurez de un senior, no dudes en contactarme.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adrimansillacast/)
-[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mancasad@gmail.com)
+[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mansidevop@gmail.com)
