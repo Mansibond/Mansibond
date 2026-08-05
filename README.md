@@ -56,10 +56,10 @@ Aquí están las tecnologías y herramientas con las que trabajo:
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mansibond&theme=dracula" alt="Resumen de perfil" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mansibond&show_icons=true&theme=dracula" alt="Resumen de perfil" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mansibond&theme=dracula" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansibond&layout=compact&theme=dracula" alt="Lenguajes más usados" />
 </p>
 
 ---
